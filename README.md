@@ -6,4 +6,4 @@ On 13th January 2022, the local OSM community's  [Freedom-of-Information request
 
 ![](https://i.imgur.com/6YDmBme.png)
 
-The draft working notes for this challenge is [here](https://hackmd.io/@GOwin/rk8s1BLTK)
+The draft working/general notes for this challenge is [here](https://hackmd.io/@osmph/rk8s1BLTK).
